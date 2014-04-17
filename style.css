@@ -1,0 +1,21 @@
+/*
+ * Jquery Equalizer Plugin
+ * 
+ * Author: Chris Brooks
+ * URL: http://www.chris-brooks.co.uk
+ * 
+ */
+body{
+		margin:0px;
+	}
+		.container div{
+			float:left;
+			background:#eaeaea;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;		
+		}
+
+		.container{
+			display: inline-block;
+		}
