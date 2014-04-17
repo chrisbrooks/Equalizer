@@ -11,7 +11,7 @@ Equalizer will also use the width of the container to divide the number of colum
 
 <h3>Getting Started</h3>
 
-Include jQuery and the plugin, then select the containing elements you want to Equalize
+Include jQuery and the plugin, then select the containing elements you want to Equalize.
 
 ```html
 <div class="container">
