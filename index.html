@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script src="equalizer.js"></script>
+	<script src="jquery.equalizer.js"></script>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -38,13 +38,11 @@
 
 	<script type="text/javascript">
 		$(document).ready(function() {
-			$( ".equalize" ).equalizer({     
-    		});	
+			$( ".equalize" ).equalizer();	
 		});
 
 		$(window).resize(function() {
-			$( ".equalize" ).equalizer({      
-    		});	
+			$( ".equalize" ).equalizer();	
 		});
 
 		
